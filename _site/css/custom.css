@@ -255,8 +255,7 @@ margin-left:40px;
 .logoperigonal {
 
   color: #fae8da;
-  max-width: 200px;
-}
+width: 100%}
 
 
 /*** Layout ***/
@@ -285,7 +284,7 @@ width:100%;
 }
 
 .content-wrapper-logo {
-  max-width: 720px;
+  max-width: 200px;
   padding: 30px;
 position: absolute;
     top: 50%;
