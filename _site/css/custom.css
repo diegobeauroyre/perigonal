@@ -261,7 +261,9 @@ width: 100%}
 /*** Layout ***/
 
 
-.content-tagline {
+
+
+.tagline {
   max-width: 600px;
   padding: 0px;
   margin: 98px auto;
@@ -296,6 +298,60 @@ position: absolute;
 .content {
   padding: 20px
 }
+
+.contentpics {
+  height: 600px;
+}
+
+.pics1 {
+  padding: 20px;
+  width: 30%;
+  height: 100%;
+  float: left;
+  background-color: #a0a0a0;
+  display: inline-block;
+}
+
+.pics2 {
+  padding: 20px;
+  width: 35%;
+  height: 50%;
+  float: right;
+  background-color: #666;
+  display: inline-block;
+
+}
+
+.pics3 {
+  padding: 20px;
+  width: 35%;
+  height: 50%;
+  float: right;
+  display: inline-block;
+
+}
+
+.pics4 {
+  padding: 20px;
+  width: 35%;
+  height: 50%;
+  float: right;
+  display: inline-block;
+  background-color: #fae8da;
+  text-align: center;
+  margin: auto;
+
+}
+
+.pics5 {
+  padding: 20px;
+  width: 35%;
+  height: 50%;
+  float: right;
+  display: inline-block;
+
+}
+
 
 .circle {
 	border-radius: 50%;
@@ -350,8 +406,7 @@ body.landing .content {
 
 /*** Signup Form ***/
 .forma {
-    text-align:left;
-    align-content:left;
+    text-align:center;
 padding-left:20px;
     padding-right:20px;
     padding-bottom:20px;        
@@ -382,7 +437,7 @@ text-align:left;
     height: 80px;
     width: 100%; 
     max-width: 300px;
-    background-color:#00e0b0;
+    background-color:#ff5a75;
     text-align:center;
 }
 
