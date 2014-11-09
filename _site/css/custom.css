@@ -310,6 +310,8 @@ position: absolute;
   float: left;
   background-color: #a0a0a0;
   display: inline-block;
+  background-image: url(../img/peri_catalogo_03.jpg);
+
 }
 
 .pics2 {
@@ -318,6 +320,8 @@ position: absolute;
   height: 50%;
   float: right;
   background-color: #666;
+  background-image: url(../img/peri_catalogo_03.jpg);
+
   display: inline-block;
 
 }
@@ -327,6 +331,7 @@ position: absolute;
   width: 35%;
   height: 50%;
   float: right;
+    background-image: url(../img/peri_catalogo_03.jpg);
   display: inline-block;
 
 }
@@ -337,7 +342,6 @@ position: absolute;
   height: 50%;
   float: right;
   display: inline-block;
-  background-color: #fae8da;
   text-align: center;
   margin: auto;
 
