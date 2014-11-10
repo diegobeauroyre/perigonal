@@ -145,17 +145,23 @@ a:link, a:visited, a:hover, a:active {
 }
 
 .btn:hover {
-  background-color: #6600cc;
+  background-color: #e12e50;
 }
 
 .btn:focus, .btn:active {
-  background-color: #cc99cc;
+  background-color: #760029;
 }
 
 .btn-primary {
   color: #fff;
   background-color: #333;
   border-color: #000;
+}
+
+.btn-sm {
+  background-color: #ff5a75;
+  color: #fff;
+
 }
 
 .btn-lg,
@@ -239,7 +245,7 @@ margin-left:40px;
     
 
 .navbar-inverse .navbar-brand {
-  color: #FFF;
+  color: #fae8da;
 }
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-brand:focus {
@@ -310,7 +316,9 @@ position: absolute;
   float: left;
   background-color: #a0a0a0;
   display: inline-block;
-  background-image: url(../img/peri_catalogo_03.jpg);
+  background-image: url(../img/peri_catalogo_01.jpg);
+  background-size: cover; 
+  background-position: center;
 
 }
 
@@ -320,9 +328,11 @@ position: absolute;
   height: 50%;
   float: right;
   background-color: #666;
-  background-image: url(../img/peri_catalogo_03.jpg);
-
+  background-image: url(../img/peri_catalogo_02.jpg);
+  background-size: cover; 
+  background-position: center;
   display: inline-block;
+
 
 }
 
@@ -333,17 +343,23 @@ position: absolute;
   float: right;
     background-image: url(../img/peri_catalogo_03.jpg);
   display: inline-block;
+    background-size: cover; 
+  background-position: center;
+
 
 }
 
 .pics4 {
   padding: 20px;
+  padding-top: 80px;
   width: 35%;
   height: 50%;
   float: right;
   display: inline-block;
   text-align: center;
   margin: auto;
+  background-color: #fae8da;
+  color: #292d46;
 
 }
 
@@ -353,6 +369,10 @@ position: absolute;
   height: 50%;
   float: right;
   display: inline-block;
+  background-image: url(../img/peri_catalogo_05.jpg);
+  background-size: cover; 
+  background-position: center;
+
 
 }
 
